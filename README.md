@@ -1,4 +1,4 @@
-# tls1-3-flask-wsgi-upload-server
+# flask-tls13-wsgi-upload-server
 A powerful and secure upload server for uWSGI and Flask.
 
 ## Dependencies
